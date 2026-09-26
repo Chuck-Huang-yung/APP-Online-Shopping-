@@ -11,6 +11,11 @@
 
 ---
 
+## 📱 實際操作頁面 - 商品瀏覽頁面
+<img width="520" height="1039" alt="image" src="https://github.com/user-attachments/assets/54be91f5-7f15-42f7-9e26-c5ad6256fc96" />
+
+---
+
 ## ✨ 核心功能亮點 (Core Features)
 
 * **🛍️ 商品展示與分類：** 專為電子產品設計的商品型錄，支援圖文列表展示，讓使用者快速瀏覽家電規格。
