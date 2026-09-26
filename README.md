@@ -12,9 +12,9 @@
 ---
 
 ## 📱 實際操作頁面 - 商品瀏覽、購物車結帳頁面
-<img width="520" height="1039" alt="image" src="https://github.com/user-attachments/assets/54be91f5-7f15-42f7-9e26-c5ad6256fc96" />
 
-<img width="266" height="521" alt="image" src="https://github.com/user-attachments/assets/fe4382e9-cc20-41ba-a900-d6af81f0bbe7" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/54be91f5-7f15-42f7-9e26-c5ad6256fc96" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/fe4382e9-cc20-41ba-a900-d6af81f0bbe7" />
 
 ---
 
