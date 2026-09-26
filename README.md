@@ -4,7 +4,9 @@
 ![Android](https://img.shields.io/badge/Android-Kotlin-3DDC84?logo=android&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-Build_Tool-02303A?logo=gradle&logoColor=white)
 
-> **💡 專案簡介**
+---
+
+## 💡 專案簡介
 > 本專案為一款專為「智慧家電與電子產品」設計的行動端商城 APP。系統具備完整的電商瀏覽體驗，並實作了核心的**購物車與結帳邏輯**。透過此專案，展現了 Android 原生開發中對於複雜 UI 狀態管理、資料傳遞以及購物車生命週期的掌握能力。
 
 ---
