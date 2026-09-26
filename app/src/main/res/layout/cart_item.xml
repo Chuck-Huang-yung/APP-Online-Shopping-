@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:background="@drawable/border">
+
+    <!-- 商品圖片 -->
+
+    <!-- 商品描述 -->
+    <TextView
+        android:id="@+id/cartItemDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="16dp"
+        android:text="Product Description"
+        android:textSize="16sp"
+        android:textColor="#000000" />
+
+    <!-- 商品價格 -->
+    <TextView
+        android:id="@+id/cartItemPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cartItemDescription"
+        android:layout_alignStart="@id/cartItemDescription"
+        android:text="價格: $0"
+        android:textSize="14sp"
+        android:textColor="#333"/>
+
+    <!-- 商品數量 -->
+    <Button
+        android:id="@+id/increaseQuantityButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="增加"
+        android:layout_below="@id/cartItemPrice"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="5dp" />
+
+    <Button
+        android:id="@+id/decreaseQuantityButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="減少"
+        android:layout_below="@id/cartItemPrice"
+        android:layout_toEndOf="@id/increaseQuantityButton"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp" />
+
+    <Button
+        android:id="@+id/removeCartItemButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="刪除"
+        android:layout_below="@id/cartItemPrice"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="5dp" />
+</RelativeLayout>
+

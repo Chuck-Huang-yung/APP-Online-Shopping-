@@ -1,0 +1,59 @@
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:padding="16dp">
+
+<TextView
+    android:id="@+id/studentInfoTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="學號_姓名"
+    android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/productImageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"/>
+
+
+
+<TextView
+    android:id="@+id/descriptionTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="產品描述"
+    android:textSize="18sp" />
+
+<TextView
+    android:id="@+id/inforTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="商品資訊"
+    android:textSize="16sp"
+    android:layout_marginTop="10dp" />
+
+<TextView
+    android:id="@+id/priceTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="價格"
+    android:textSize="16sp"
+    android:layout_marginTop="10dp" />
+
+<Button
+    android:id="@+id/addToCartButton"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="進入購物車"
+    android:layout_marginTop="20dp" />
+
+<Button
+    android:id="@+id/backButton"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="返回"
+    android:onClick="onBackButtonClick" />
+</LinearLayout>

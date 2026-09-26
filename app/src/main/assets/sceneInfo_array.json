@@ -1,0 +1,64 @@
+[
+{
+  "name": "iPhone 16",
+  "imgFile": "pic1",
+  "price": 48000 ,
+  "infor": "Apple 官方網站 — 五款繽紛色彩，A18 晶片。立即購買全新 iPhone 16。 經得起細細看。了解 iPhone 16。 更持久的電池續航力。A18 晶片。相機控制。2 倍望遠。動作按鈕。iOS 18。空間拍攝。4800 萬像素 Fusion 主相機。"
+
+},
+{
+  "name": "iPad Pro 11",
+  "imgFile": "pic2",
+  "price": 42000 ,
+  "infor": "iPad 帶來嶄新多樣色彩，本領更多，用起來更直覺，樂趣也更多。採用全螢幕設計，具備10.9 吋Liquid Retina 顯示器，還有四款亮眼色彩任你選擇。"
+},
+{
+  "name": "Samsung Galaxy S21 Ultra",
+  "imgFile": "pic3",
+  "price": 38000 ,
+  "infor": "Apple 官方網站 — 五款繽紛色彩，A18 晶片。立即購買全新 iPhone 16。 經得起細細看。了解 iPhone 16。 更持久的電池續航力。A18 晶片。相機控制。2 倍望遠。動作按鈕。iOS 18。空間拍攝。4800 萬像素 Fusion 主相機。"
+},
+{
+  "name": "AirPods 4",
+  "imgFile": "pic4",
+  "price": 6000 ,
+  "infor": "經典，又一美聲新作。服貼程度全面升級，讓你舒適佩戴一整天；徹底改觀，刷新聽覺體驗，還有主動式降噪款供你選購。"
+},
+  {
+    "name": "Apple Watch Series 7",
+    "imgFile": "pic5",
+    "price": 12000 ,
+    "infor": "功能特色 · GPS、GLONASS、Galileo、QZSS 與北斗定位系統 · 指南針 · 常啟高度計 · 防水. 50 公尺 · 血氧濃度感測器. (血氧濃度app) · 電子心率感測器"
+  },
+  {
+    "name": "Sony a6700",
+    "imgFile": "pic6",
+    "price": 98000 ,
+    "infor": "2600 萬畫素首款APS-C 片幅背照式感光元件 · 最新BIONZ XR 影像處理器 · 搭載全新AI 處理元件，實現更精準及多元目標的辨識效果，及自動取景功能 "
+  },
+  {
+    "name": "iMac",
+    "imgFile": "pic7",
+    "price": 120000 ,
+    "infor": "iMac 亮麗的24 吋顯示器，讓你將iPhone 上的一切所愛在這裡精彩呈現。兩部裝置搭配使用，更能體會默契相連的巧妙。"
+  },
+  {
+    "name": "Powerbeats Pro",
+    "imgFile": "pic8",
+    "price": 7200 ,
+    "infor": "Beats Powerbeats Pro真無線耳機是蘋果旗下的高機能運動耳機，擁有全新Apple H1晶片，最長可達9小時聆聽時間，搭配充電盒更可達24小時。"
+  },
+  {
+    "name": "Beats Studio Pro",
+    "imgFile": "pic9",
+    "price": 18000 ,
+    "infor": "Beats Studio Pro 頭戴式耳機的電池續航力最長可達40 小時⁸，讓你沉浸於音樂的時間更長。啟用主動降噪或通透模式時，聆聽時間最長可達24 小時。"
+  },
+  {
+    "name": "playstation 5",
+    "imgFile": "pic10",
+    "price": 20000 ,
+    "infor": "PlayStation 5（官方縮寫：PS5）是索尼互動娛樂於2020年11月12日上市的家用電子遊樂器。本機為PlayStation 4（PS4）的後續機型"
+  }
+
+]

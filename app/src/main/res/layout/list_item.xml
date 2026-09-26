@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/relativeLayout"
+    android:background="@drawable/border">
+
+
+
+    <!-- 顯示圖片的 ImageView -->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:scaleType="fitCenter"
+        android:contentDescription="Icon"
+        android:src="@android:drawable/btn_star_big_on" />
+
+    <!-- 顯示描述文字的 TextView -->
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/imageView"
+        android:layout_alignTop="@id/imageView"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Description"
+        android:textSize="18sp"
+        android:textColor="#000" />
+
+    <!-- 顯示價格的 TextView -->
+    <TextView
+        android:id="@+id/priceTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:layout_alignStart="@id/textView"
+        android:layout_marginTop="5dp"
+        android:text="Price"
+        android:textSize="16sp"
+        android:textColor="#333"
+        android:textStyle="bold" />
+
+    <!-- 添加購物車按鈕的 ImageView -->
+
+
+</RelativeLayout>
