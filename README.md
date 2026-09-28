@@ -27,12 +27,30 @@
 
 ---
 
-## 📂 專案技術架構 (Tech Stack & Architecture)
+## 🛠️ 技術架構與系統設計 (Tech Stack & Architecture)
 
 * **開發語言：** Kotlin / Java (Android SDK)
 * **架構元件：** Activity / Fragment 生命週期管理
 * **UI 實作：** RecyclerView (商品列表高效率渲染), 原生 XML 佈局設計
 * **建置工具：** Gradle (Kotlin DSL)
+
+---
+
+## 📁 專案核心目錄導覽 (Directory Structure)
+
+```text
+APP-Online-Shopping/
+├── app/                        # 應用程式主模組 (Application Module)
+│   ├── src/main/java/          # 核心程式碼 (Activity, Fragment, Adapter 等邏輯實作)
+│   ├── src/main/res/           # 資源檔案 (XML 佈局設計, 圖片資產, 字串與顏色定義)
+│   └── build.gradle.kts        # App 模組層級 Gradle 建置腳本 (依賴庫設定)
+├── gradle/                     # Gradle Wrapper 設定檔與環境
+├── build.gradle.kts            # 專案層級 (Project-level) Gradle 建置腳本
+├── settings.gradle.kts         # 專案模組註冊與全域依賴管理設定
+├── gradle.properties           # Gradle 專案環境變數與效能設定參數
+├── gradlew / gradlew.bat       # Gradle 命令列執行腳本 (Mac/Linux 與 Windows)
+├── .gitignore                  # Git 版本控制忽略清單
+└── README.md                   # 專案說明文件
 
 ---
 
