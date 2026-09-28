@@ -51,6 +51,7 @@ APP-Online-Shopping/
 ├── gradlew / gradlew.bat       # Gradle 命令列執行腳本 (Mac/Linux 與 Windows)
 ├── .gitignore                  # Git 版本控制忽略清單
 └── README.md                   # 專案說明文件
+```
 
 ---
 
